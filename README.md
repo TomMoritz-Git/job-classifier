@@ -1,2 +1,2 @@
 # job-classifier
-One shot job classifier training to perform zero shot classification on job offerings.
+Zero shot classifier training to match job labels with job descriptions/offerings.
